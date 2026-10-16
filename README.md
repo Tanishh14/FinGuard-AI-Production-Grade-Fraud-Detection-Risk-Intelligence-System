@@ -2,7 +2,7 @@
 AI-powered fraud detection and risk intelligence platform combining machine learning, graph analytics, behavioral signals, and explainable AI for real-time financial threat detection.
 
 # FinGuard AI
-
+Hey
 **Adaptive, explainable, real-time fraud detection for financial systems.**
 
 FinGuard AI combines graph neural networks, anomaly detection, and an evidence-bound LLM explainability layer to catch coordinated fraud rings — not just individually suspicious transactions — while keeping every decision auditable and regulator-replayable.
